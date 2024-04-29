@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-04-29T08:09:44.170880Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-04-29T08:09:44.170880Z",
+      "mimetype": null,
+      "name": "resources",
+      "path": "resources",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-04-29T08:09:44.166880Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-04-29T08:09:44.166880Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-04-29T08:18:52.682975Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-04-29T08:18:29.410816Z",
+      "mimetype": null,
+      "name": "Dashboard.ipynb",
+      "path": "Dashboard.ipynb",
+      "size": 26604,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-04-29T08:18:52.682975Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-04-29T08:18:52.682975Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
